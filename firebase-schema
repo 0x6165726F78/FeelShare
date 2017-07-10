@@ -1,0 +1,6 @@
+/users
+  [uid]
+    uid,
+    name,
+    avatarURL,
+    points

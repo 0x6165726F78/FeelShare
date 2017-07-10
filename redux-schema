@@ -1,0 +1,24 @@
+{
+  "auth": {
+    uid,
+    isAuthenticating,
+    isAuthed,
+    error,
+  },
+
+  "users": {
+    loading,
+    [uid]: {
+      uid,
+      name,
+      avatarURL,
+      points
+    },
+  },
+
+  "listeners": {
+    feed
+  }
+}
+
+

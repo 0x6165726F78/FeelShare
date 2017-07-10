@@ -1,0 +1,23 @@
+{
+  "name": "FeelShare",
+  "description": "Mobile app built that uses artificial intelligence and allows you to compete against other people to see which one has the best smile.",
+  "slug": "feelshare",
+  "privacy": "unlisted",
+  "sdkVersion": "14.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "facebookScheme": "fb618774084979011",
+  "icon": "https://firefly-challengepost.netdna-ssl.com/usercontent/fill/333/222/cGhvdG9zL3Byb2R1Y3Rpb24vc29mdHdhcmVfdGh1bWJuYWlsX3Bob3Rvcy8wMDAvNDg1LzExNy9kYXRhcy9vcmlnaW5hbC5wbmc=/logo.png?signature=ac5df4995515d5fbbf8898f29a4a37a2a885a88d",
+  "loading": {
+    "icon": "https://s3.amazonaws.com/exp-brand-assets/ExponentEmptyManifest_192.png",
+    "hideExponentText": false
+  },
+  "package": "com.test.test",
+  "packagerOpts": {
+    "assetExts": ["ttf", "mp4"]
+  },
+  "ios": {
+    "supportsTablet": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "presets": ["babel-preset-exponent"],
+  "plugins": [
+    [
+      "babel-plugin-root-import",
+      {
+        "rootPathSuffix": "src"
+      }
+    ]
+  ],
+  "env": {
+    "development": {
+      "plugins": ["transform-react-jsx-source"]
+    }
+  }
+}
